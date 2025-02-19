@@ -1,7 +1,7 @@
 //jshint esversion:6
 // Comment in the next line to disable the warning about the global variable being used
 // create an express object from the express package
-//Change
+// create a body parser object from the body-parser package
 
 const express = require("express");
 const bodyParser = require("body-parser");
